@@ -1,0 +1,27 @@
+.body{
+    max-width: 720px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    color:yellow;
+    font-weight: 600;
+}
+
+.message {
+    background-color: rgb(33, 155, 44);
+    padding: 10px;
+    margin: 10 0px;
+    border-radius: 5px;
+}
+
+.inputMessage{
+    min-width: 350px;
+    margin-right: 30px;
+}
+
+.server-response {
+    background-color: rgb(184, 92, 100);
+    padding: 10px;
+    margin: 10 0px;
+    border-radius: 10px;
+    text-align: right;
+}
